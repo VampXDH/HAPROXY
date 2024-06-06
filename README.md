@@ -1,16 +1,3 @@
-<p style="text-align:center">
-<font color="#FF1493">⚡ReeMods Premium tunneling⚡</font><br />
-<font color="red"><b>क═══════क⊹⊱✫⊰⊹क══════क</b></font><br>
-<font color="yellow"><b>🤗 2 𝑳𝑶𝑮𝑰𝑵 𝑫𝑬𝑽𝑰𝑪𝑬 !!! </b></font><br>
-<font color="magenta"><b>😋𝑵𝑶 𝑫𝑫𝑶𝑺!!! </b></font><br>
-<font color="#C0C0C0"><b>😝 𝑵𝑶 𝑯𝑨𝑪𝑲𝑰𝑵𝑮 !!!</b></font><br>
-<font color="green"><b>😃 𝑵𝑶 𝑴𝑼𝑳𝑻𝑰𝑳𝑶𝑮𝑰𝑵 !!!</b></font><br>
-<font color="blue"><b>🤨𝑵𝑶 𝑷𝑶𝑹𝑵18+ !!!</b></font><br>
-<font color="red"><b>क═══════क⊹⊱✫⊰⊹क══════क ➪</b></font><br>
-<font color="magenta"><b>𝑻𝒓𝒊𝒂𝒍/𝑶𝒓𝒅𝒆𝒓 𝑯𝒖𝒃𝒖𝒏𝒈𝒊 : ➪ 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 : 𝒉𝒕𝒕𝒑𝒔://𝒘𝒂.𝒎𝒆/6281255378890</b></font><br>
-<font color="#00FFFF"><b>+https://wa.me/6281255378890</b></font><br>
-<font color="green"><b>➪ Support by Emelda Tunnels❤️</b></font><br>
-
 
 ## UPGRADE FOR DEBIAN
 Masukkan perintah dibawah jika anda menggunakan OS Debian Version 9 atau 10
