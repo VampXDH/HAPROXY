@@ -14,22 +14,22 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 ## INSTALL SCRIPT 
 Masukkan perintah dibawah untuk menginstall Autoscript Premium
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/github-/nama-repo-lu/main/setup.sh && chmod +x setup.sh && ./setup.sh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/VampXDH/HAPROXY/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 
 ## UPDATE SCRIPT
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
 ```
-wget -q https://raw.githubusercontent.com/github-lu/nama-repo-lu/main/update.sh && chmod +x update.sh && ./update.sh
+wget -q https://raw.githubusercontent.com/VampXDH/HAPROXY/main/update.sh && chmod +x update.sh && ./update.sh
 ```
-## sewa autoscript bisa ke wa.me/6281255378890 cuman 10k 2bulan 1ip vps
-ReeMods
+## sewa autoscript bisa ke wa.me/+18137998337 cuman 15k 1bulan 1ip vps
+Coral
 ```
 anjay
 ```
 
 <h1 align="center">
-Auto Script Install All VPN Service ReeMods
+Auto Script Install All VPN Service Coral
 <img src="https://img.shields.io/badge/Version-2.4.9-blue.svg"></h2>
 
 </p> 
@@ -46,6 +46,7 @@ Auto Script Install All VPN Service ReeMods
 # Khusus Untuk OS
 * • Debian 10 & 9
 * • Ubuntu 18.04 & 20.04
+* • Recommend Debian 10 & Ubuntu 20.04
 * Working For VPS AWS,AZURE,DO,LINODE
 
 
